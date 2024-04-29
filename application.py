@@ -11,7 +11,7 @@ import chatbot.NaturalLanguageGeneration as nlg
 import chatbot.NaturalLanguageUnderstanding as nlu
 logger = telebot.logger
 telebot.logger.setLevel(logging.DEBUG)
-bot = telebot.TeleBot(config.TG_API_TOKEN)
+bot = telebot.TeleBot(config.7170568267:AAEpvCutDwvgGTGN-WCSjgBSK0m6r6CDemg)
 
 # Начало диалога
 @bot.message_handler(commands=["start"])
